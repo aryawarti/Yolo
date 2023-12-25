@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780707939690",
+    "project_id": "yolo-7c9da",
+    "storage_bucket": "yolo-7c9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780707939690:android:65c85f5fab98f3e1235113",
+        "android_client_info": {
+          "package_name": "com.rci_pvt.yolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC0FuqCaFqzEt3wVCmIHQBZlNRcdEwXWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
